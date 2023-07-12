@@ -1,6 +1,6 @@
 # myopia
 ## Unsupervised Learning Project
-## William Vann Homework 20
+## William Vann 
 
 ### Files
 
